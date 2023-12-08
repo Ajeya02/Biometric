@@ -7,7 +7,7 @@ Emotion Detection using Eiffiect Vit, Efficient Net B0 and 3DCNN.
 
  ## Restructure the data
  Split the data ino train, val and test folders
- use restucture.uipynb that restructures the data such that train (& val, test) has only images without subfolders
+ use restucture.ipynb that restructures the data such that train (& val, test) has only images without subfolders
 
  ## To run the data & infer
  Change the paths to your data folders and run

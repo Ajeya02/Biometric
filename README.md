@@ -10,6 +10,6 @@ Note: The inference_threshold contains the plots to find optimal threshold and t
  Split the data ino train, val and test folders
  use restucture.ipynb that restructures the data such that train (& val, test) has only images without subfolders
 
- ## To run the data & infer
- Change the paths to your data folders and run
+ ## To run the Models
+ Change the paths in the .ipynb files to point to your data folders and run. The uses the saved weights and run the inferncing files.
 
